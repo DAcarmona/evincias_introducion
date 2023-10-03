@@ -52,7 +52,7 @@ En el archivo HTML, agrega el siguiente código:
   height: 100px;
 }
 ```
-+ Padding: Agrega un relleno de 20 píxeles a todos los lados del elemento.
+ Padding: Agrega un relleno de 20 píxeles a todos los lados del elemento.
 ```
 .elemento {
   padding: 20px;
@@ -61,7 +61,7 @@ En el archivo HTML, agrega el siguiente código:
   height: 100px;
 }
 ```
-+ Border: Agrega un borde de 5 píxeles de color rojo.
+ Border: Agrega un borde de 5 píxeles de color rojo.
 ```
 .elemento {
   border: 5px solid red;
@@ -71,7 +71,7 @@ En el archivo HTML, agrega el siguiente código:
   height: 100px;
 }
 ```
-+ Border-radius: Agrega un radio de esquina de 10 píxeles.
+ Border-radius: Agrega un radio de esquina de 10 píxeles.
 ```
 .elemento {
   border-radius: 10px;
