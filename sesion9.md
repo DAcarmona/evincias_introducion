@@ -94,6 +94,7 @@ En el archivo HTML, agrega el siguiente código:
 }
 ```
 ## Preguntas:
+
 1.¿Qué es la propiedad margin?
 
 2.¿Qué es la propiedad padding?
@@ -138,6 +139,7 @@ En el archivo HTML, agrega el siguiente código:
    
   }
 ```
+
  ###  1.¿Qué es la propiedad margin?
 
  La propiedad "margin" es una propiedad CSS (Cascading Style Sheets) que se utiliza para establecer el espacio en blanco alrededor de un elemento HTML. Esta propiedad controla el espacio exterior de un elemento, es decir, el espacio que lo separa de otros elementos circundantes en la página web.
