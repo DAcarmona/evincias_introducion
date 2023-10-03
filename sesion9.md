@@ -105,7 +105,7 @@ En el archivo HTML, agrega el siguiente código:
 
 5.¿Qué unidades de medida se pueden utilizar para las propiedades de espaciado?
 
-#Ejercicio
+# Ejercicio
 ```
 <!DOCTYPE html>
 <html lang="es">
@@ -138,6 +138,7 @@ En el archivo HTML, agrega el siguiente código:
     height: 100px;
    
   }
+
 ```
 
  ###  1.¿Qué es la propiedad margin?
