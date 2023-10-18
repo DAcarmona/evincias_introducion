@@ -28,7 +28,8 @@ En el archivo HTML, agrega el siguiente código:
 </body>
 </html>
 ```
-3. En el archivo CSS, agrega el siguiente código:
+3. En el archivo CSS, agrega el siguientecodigo
+
 ```
 .contenedor {
   width: 200px;
@@ -141,20 +142,20 @@ En el archivo HTML, agrega el siguiente código:
 
 ```
 
- ###  1.¿Qué es la propiedad margin?
+ ##  1.¿Qué es la propiedad margin?
 
  La propiedad "margin" es una propiedad CSS (Cascading Style Sheets) que se utiliza para establecer el espacio en blanco alrededor de un elemento HTML. Esta propiedad controla el espacio exterior de un elemento, es decir, el espacio que lo separa de otros elementos circundantes en la página web.
 
-### 2.¿Qué es la propiedad padding?
+## 2.¿Qué es la propiedad padding?
 La propiedad "padding" es una propiedad CSS (Cascading Style Sheets) que se utiliza para establecer el espacio en blanco entre el contenido de un elemento HTML y su borde. En otras palabras, el "padding" controla el espacio interior de un elemento, la distancia entre el contenido y el borde del elemento.
 
-### 3.¿Qué es la propiedad border?
+## 3.¿Qué es la propiedad border?
 La propiedad "border" es una propiedad CSS (Cascading Style Sheets) que se utiliza para establecer las características del borde alrededor de un elemento HTML, como un div, un botón, una imagen u otros elementos. El borde es una parte importante del diseño de la interfaz de usuario en una página web, ya que puede ayudar a resaltar o separar elementos, proporcionar estructura visual y mejorar la estética general de la página.
 
-### 4.¿Qué es la propiedad border-radius?
+## 4.¿Qué es la propiedad border-radius?
 La propiedad "border-radius" es una propiedad CSS que se utiliza para redondear las esquinas de un elemento con bordes, como un div, un botón, una imagen u otros elementos. Permite darle una apariencia más suave y estilizada a los bordes de un elemento, creando esquinas redondeadas en lugar de esquinas afiladas. Esta propiedad es especialmente útil para crear diseños modernos y atractivos en sitios web y aplicaciones.
 
-### 5.¿Qué unidades de medida se pueden utilizar para las propiedades de espaciado?
+## 5.¿Qué unidades de medida se pueden utilizar para las propiedades de espaciado?
 En CSS, se pueden utilizar varias unidades de medida para establecer propiedades de espaciado como "margin", "padding", "border-width" y otras. Estas unidades de medida permiten definir dimensiones y espacios en una página web de manera precisa. Algunas de las unidades de medida más comunes incluyen:
 
 Píxeles (px): Esta es la unidad de medida más común y se utiliza ampliamente. Un píxel es la unidad más pequeña de una pantalla y se adapta bien para establecer tamaños y espacios precisos. Por ejemplo, margin: 10px; establece un margen de 10 píxeles.
